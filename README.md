@@ -1,5 +1,7 @@
 # Machine Learning in the Chinese Stock Market Reproduction
 
+![Image text](https://github.com/liuyuhang1020/Machine-Learning-in-the-Chinese-Stock-Market-Reproduction/banner/wangxuan_institute_of_computer_technology.png)
+
 This project is affiliated with the [Deep Video Lab at the Wangxuan Institute of Computer Technology, Peking University](https://deepvideolab.top/en/).
 
 - Read the research papers on time series analysis models such as Informer, Autoformer, and FEDformer, and replicate the model code to test the model's performance.
