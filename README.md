@@ -4,10 +4,10 @@
 
 北京大学 王选计算机研究所 深度视频实验室 实习
 
-- 阅读Informer、Autoformer、FEDformer等时间序列分析模型论文，并复现模型代码，测试模型效果。
+- Read the research papers on time series analysis models such as Informer, Autoformer, and FEDformer, and replicate the model code to test the model's performance.
 
-- 基于视频编解码器的思路，设计数据集分类算法，针对不同类数据集自适应地切换最优的时间序列分析模型。
+- Based on the ideas of video codecs, design a dataset classification algorithm that adaptively switches to the optimal time series analysis model for different types of datasets.
 
-- 维护实验室量化因子库，优化因子计算代码，定时更新因子。并针对模型思路进行特征工程。
+- Maintain the laboratory's quantitative factor library, optimize the factor calculation code, and regularly update the factors. Additionally, conduct feature engineering based on model ideas.
 
-- 使用backtrader量化回测框架对模型预测结果进行回测，并给出结果分析和改进方向。
+- Use the Backtrader quantitative backtesting framework to backtest the model's prediction results, and provide result analysis and directions for improvement.
